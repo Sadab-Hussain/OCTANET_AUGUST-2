@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OCTANET_AUGUST./static/css/main.8ece284b.css",
+    "main.js": "/OCTANET_AUGUST./static/js/main.903e105b.js",
+    "index.html": "/OCTANET_AUGUST./index.html",
+    "main.8ece284b.css.map": "/OCTANET_AUGUST./static/css/main.8ece284b.css.map",
+    "main.903e105b.js.map": "/OCTANET_AUGUST./static/js/main.903e105b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ece284b.css",
+    "static/js/main.903e105b.js"
+  ]
+}
