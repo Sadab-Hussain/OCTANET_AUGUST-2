@@ -8,11 +8,11 @@ The **To-Do List Page** is a simple yet effective tool designed to help users ma
 
 ## 🚀 Live Demo
 
-Check out the live demo: [To-Do List Page](https://sadab-hussain.github.io/OCTANET_AUGUST/)
+Check out the live demo: [To-Do List Page](https://sadab-hussain.github.io/OCTANET_AUGUST-2/)
 
 ## 📂 GitHub Repository
 
-Explore the code: [To-Do List GitHub Repo](https://github.com/Sadab-Hussain/OCTANET_AUGUST)
+Explore the code: [To-Do List GitHub Repo](https://github.com/Sadab-Hussain/OCTANET_AUGUST-2)
 
 ## 👨‍💻 Tech Stack
 
