@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# To-Do List Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/user-attachments/assets/5acc2c2c-4ad7-4a29-b8b2-4d0dc6b65017)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+The **To-Do List Page** is a simple yet effective tool designed to help users manage their daily tasks efficiently. This project was developed as part of my internship with OctaNet Services Pvt Ltd. The goal was to create a user-friendly interface that allows users to add, edit, and delete tasks, making task management easy and intuitive.
 
-### `npm start`
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Check out the live demo: [To-Do List Page](https://sadab-hussain.github.io/OCTANET_AUGUST-2/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📂 GitHub Repository
 
-### `npm test`
+Explore the code: [To-Do List GitHub Repo](https://github.com/Sadab-Hussain/OCTANET_AUGUST-2)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 👨‍💻 Tech Stack
 
-### `npm run build`
+- **HTML:** Provides the structure and foundation of the web application.
+- **CSS:** Ensures a visually appealing and well-organized interface with responsive design.
+- **JavaScript:** Implements the logic and interactive features, enhancing user experience.
+- **React.js:** Utilizes components and state management for building a dynamic and efficient user interface.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Add, Edit, and Delete Tasks:** Users can easily manage their to-do list by adding, editing, or deleting tasks.
+- **Responsive Design:** The page is optimized for both desktop and mobile devices.
+- **Dynamic User Interface:** React.js was used to create a seamless and responsive user experience.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📸 Screenshots
 
-### `npm run eject`
+### To-Do List Page
+![image](https://github.com/user-attachments/assets/616bed12-94ff-4d07-a33d-2855f8f58389)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Mobile View
+![image](https://github.com/user-attachments/assets/8b75bd46-c2f3-484d-88e6-77eda1fda6ad)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+To get a local copy up and running, follow these simple steps:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Prerequisites
 
-## Learn More
+Make sure you have [Git](https://git-scm.com/) installed on your machine.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Sadab-Hussain/OCTANET_AUGUST.git
+2. Navigate to the project directory
+   ```sh
+   cd OCTANET_AUGUST
+3. Install the necessary dependencies
+   ```sh
+   npm install
+4. Start the development server
+   ```sh
+   npm start
+5. Open `http://localhost:3000`in your browser to view the To-Do List Page.
 
-### Code Splitting
+📧 Contact
+Feel free to reach out if you have any questions or suggestions!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Sadab Hussain - [LinkedIn](https://www.linkedin.com/in/sadab-hussain-012a60269/) - [GitHub](https://github.com/Sadab-Hussain)
